@@ -1,0 +1,56 @@
+MORNING PLAN — 2026-08-27
+
+Analysis timestamp: 2026-08-27 09:50 ET
+Market condition: Bullish but event-driven; S&P futures reported about +0.5%, Nasdaq-100 futures about +1.0%.
+Data quality: Mixed; news/futures current, exact live quotes and several technical/options/dark-pool fields unavailable.
+
+Rank: 1
+Ticker: NVDA
+Company: NVIDIA
+Trade status: WAIT
+Entry range: Reclaim/hold above post-open opening-range high and VWAP; exact live level unavailable
+Planned entry: After confirmation only
+Stop: 1.5% below confirmed entry or opening-range support
+Target: +3.0% from confirmed entry
+Planned exit: 15:45 ET
+Expected return: 3.0%
+Confidence: 58%
+Catalyst: Reported earnings beat and bullish AI demand outlook
+Market condition: Bullish but event-driven
+Sector condition: Semiconductor/AI supportive
+Dark-pool signal: Unavailable
+Key risk: Post-earnings gap fade
+
+Rank: 2
+Ticker: CRM
+Company: Salesforce
+Trade status: WAIT
+Entry range: Hold above VWAP and opening-range midpoint/high; exact live level unavailable
+Planned entry: After confirmation only
+Stop: 1.8% below confirmed entry
+Target: +3.6% from confirmed entry
+Planned exit: 15:45 ET
+Expected return: 3.6%
+Confidence: 55%
+Catalyst: Reported earnings beat and Anthropic AI partnership
+Market condition: Bullish but event-driven
+Sector condition: Software/AI supportive
+Dark-pool signal: Unavailable
+Key risk: Large gap reversal
+
+Rank: 3
+Ticker: CRWD
+Company: CrowdStrike
+Trade status: WAIT
+Entry range: Reclaim/hold above VWAP or opening-range high with confirming volume; exact live level unavailable
+Planned entry: After confirmation only
+Stop: 2.0% below confirmed entry
+Target: +4.0% from confirmed entry
+Planned exit: 15:45 ET
+Expected return: 4.0%
+Confidence: 52%
+Catalyst: Reported record quarter and raised outlook
+Market condition: Bullish but event-driven
+Sector condition: Software/security supportive but volatile
+Dark-pool signal: Unavailable
+Key risk: High-volatility false breakout
