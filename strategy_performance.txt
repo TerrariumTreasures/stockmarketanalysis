@@ -1,0 +1,40 @@
+STRATEGY PERFORMANCE
+
+Trading Days: 0
+Total Qualifying Trades: 0
+Total Executed Trades: 0
+Profitable Trades: 0
+Losing Trades: 0
+No-Entry Trades: 0
+No-Trade Decisions: 0
+Unknown Outcomes: 0
+Win Rate: N/A
+Average Actual Return: N/A
+Average Expected Return: N/A
+Average Confidence: N/A
+Average Performance Difference: N/A
+Average MFE: N/A
+Average MAE: N/A
+Target Hit Rate: N/A
+Stop Hit Rate: N/A
+No-Entry Rate: N/A
+Best Trade: N/A
+Worst Trade: N/A
+Total Simple Percentage Return: 0.00%
+
+SIGNAL PERFORMANCE
+
+Relative Volume: Insufficient observations
+Catalyst: Insufficient observations
+VWAP: Insufficient observations
+Momentum: Insufficient observations
+Market Condition: Insufficient observations
+Sector Condition: Insufficient observations
+Options Activity: Insufficient observations
+Dark-Pool Signal: Insufficient observations
+Technical Setup: Insufficient observations
+
+Notes:
+- This file will be updated by end-of-day analysis.
+- Small-sample statistics must be clearly labeled.
+- Total simple percentage return is not equivalent to portfolio return unless equal capital allocation is assumed.
