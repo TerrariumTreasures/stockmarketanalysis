@@ -54,3 +54,15 @@ Market condition: Bullish but event-driven
 Sector condition: Software/security supportive but volatile
 Dark-pool signal: Unavailable
 Key risk: High-volatility false breakout
+
+END-OF-DAY RESULTS — 2026-08-27
+
+Daily summary: Published market reports showed a strong technology-led session, but no reliable intraday monitoring or execution record was available. Because all three morning plans were WAIT-only, each outcome is classified UNKNOWN rather than PROFIT, LOSS, or NO_ENTRY.
+
+NVDA: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
+CRM: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
+CRWD: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
+
+Market conditions: Bullish and technology-led. SPY rose about 0.72%; Nasdaq composite rose about 1.57%; VIX was reported lower by about 4.60%. NVDA rose 8.74%, CRM 22.58%, and CRWD 20.52% in published close reports.
+
+Lessons learned: Preserve timestamped intraday monitor data and execution evidence; do not infer trade performance from directional movement when the setup was WAIT-only.
