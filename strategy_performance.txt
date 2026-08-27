@@ -1,40 +1,42 @@
 STRATEGY PERFORMANCE
 
-Trading Days: 0
-Total Qualifying Trades: 0
-Total Executed Trades: 0
-Profitable Trades: 0
-Losing Trades: 0
-No-Entry Trades: 0
+Trading Days: 1
+Total Qualifying Trades: 3
+Total Executed Trades: 0 confirmed
+Profitable Trades: 0 confirmed
+Losing Trades: 0 confirmed
+No-Entry Trades: 0 confirmed
 No-Trade Decisions: 0
-Unknown Outcomes: 0
-Win Rate: N/A
+Unknown Outcomes: 3
+Win Rate: N/A — no confirmed executions
 Average Actual Return: N/A
-Average Expected Return: N/A
-Average Confidence: N/A
+Average Expected Return: 3.53%
+Average Confidence: 55.0%
 Average Performance Difference: N/A
 Average MFE: N/A
 Average MAE: N/A
 Target Hit Rate: N/A
 Stop Hit Rate: N/A
 No-Entry Rate: N/A
-Best Trade: N/A
-Worst Trade: N/A
-Total Simple Percentage Return: 0.00%
+Best Trade: UNKNOWN
+Worst Trade: UNKNOWN
+Total Simple Percentage Return: N/A
 
 SIGNAL PERFORMANCE
 
 Relative Volume: Insufficient observations
-Catalyst: Insufficient observations
-VWAP: Insufficient observations
-Momentum: Insufficient observations
-Market Condition: Insufficient observations
-Sector Condition: Insufficient observations
+Catalyst: Insufficient observations; directional thesis aligned with market, but execution unverified
+VWAP: Insufficient observations; confirmation data unavailable
+Momentum: Insufficient observations; published market reports showed strong technology momentum
+Market Condition: 1-day small sample; bullish/event-driven session
+Sector Condition: 1-day small sample; technology/software/semiconductor conditions supportive
 Options Activity: Insufficient observations
-Dark-Pool Signal: Insufficient observations
-Technical Setup: Insufficient observations
+Dark-Pool Signal: Insufficient observations; reliable data unavailable
+Technical Setup: Insufficient observations; live technical confirmation unavailable
 
 Notes:
-- This file will be updated by end-of-day analysis.
-- Small-sample statistics must be clearly labeled.
+- 2026-08-27 had three conditional WAIT setups and zero confirmed executions.
+- All three outcomes remain UNKNOWN because no reliable intraday monitoring or execution records were available.
+- Unknown outcomes are not counted as wins or losses.
 - Total simple percentage return is not equivalent to portfolio return unless equal capital allocation is assumed.
+- Small-sample statistics are explicitly labeled and should not be treated as statistically significant.
