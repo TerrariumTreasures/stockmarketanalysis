@@ -1,269 +1,51 @@
-# FINAL END-OF-DAY REPORT — 2026-08-27
+# CURRENT INTRADAY TRADING PLAN — 2026-08-28
+
+Analysis timestamp: 2026-08-28 09:57 ET.
+Data quality: Delayed/public reports; exact live quote, VWAP, indicators, options, dark-pool and order-book data unavailable.
 
 ## EXECUTIVE SUMMARY
 
-Market Condition: Bullish, technology-led, event-driven.
-
-Qualifying Trades: 3 conditional WAIT setups.
-
-Actual Entries: 0 confirmed.
-
-Profitable Trades: 0 confirmed.
-
-Losing Trades: 0 confirmed.
-
-No-Entry Trades: 0 confirmed.
-
-Unknown Trades: 3.
-
-Win Rate: N/A — no confirmed executions.
-
-Average Actual Return: N/A.
-
-Average Expected Return: 3.53% across the three morning plans.
-
-Total Simple Percentage Return: N/A — no confirmed executions.
-
-Best Trade: UNKNOWN — no reliable execution data.
-
-Worst Trade: UNKNOWN — no reliable execution data.
-
-Overall Strategy Assessment: The morning analysis identified strong technology catalysts and the market moved in the forecast direction, but all three setups were explicitly WAIT-only and no reliable intraday execution/monitoring record was available. The day therefore cannot validate or invalidate the execution model.
-
----
-
-## TRADE RESULTS
-
-### #1 — NVDA — NVIDIA
-Original Recommendation: WAIT for reclaim/hold above opening-range high and VWAP.
-Original Entry: Premarket reference $221.85; confirmation-based entry only.
-Actual/Estimated Entry: UNKNOWN — no reliable intraday monitoring or execution record.
-Entry Time: UNKNOWN.
-Stop Loss: 1.5% below confirmed entry or below opening-range support.
-Profit Target: 3.0% above confirmed entry.
-Actual/Estimated Exit: UNKNOWN — no reliable execution record.
-Exit Time: UNKNOWN.
-Trade Status: UNKNOWN.
-Actual Return: N/A.
-Dollar Change Per Share: N/A.
-Expected Return: 3.0%.
-Performance Difference: N/A.
-MFE: N/A.
-MAE: N/A.
-Target Reached: UNKNOWN.
-Stop Reached: UNKNOWN.
-Time In Trade: N/A.
-Entry Quality: Unknown.
-Exit Quality: Unknown.
-Thesis Quality: Good — strong earnings and AI-demand catalyst, but execution confirmation was required.
-Risk Management: Good in design; not testable without execution data.
-Execution Quality: Unknown.
-Reason For Outcome: No reliable evidence establishes that the WAIT confirmation occurred or that a position was opened.
-
-### #2 — CRM — Salesforce
-Original Recommendation: WAIT for hold above VWAP and opening-range support.
-Original Entry: Premarket reference $226.85; confirmation-based entry only.
-Actual/Estimated Entry: UNKNOWN — no reliable intraday monitoring or execution record.
-Entry Time: UNKNOWN.
-Stop Loss: 1.8% below confirmed entry.
-Profit Target: 3.6% above confirmed entry.
-Actual/Estimated Exit: UNKNOWN — no reliable execution record.
-Exit Time: UNKNOWN.
-Trade Status: UNKNOWN.
-Actual Return: N/A.
-Dollar Change Per Share: N/A.
-Expected Return: 3.6%.
-Performance Difference: N/A.
-MFE: N/A.
-MAE: N/A.
-Target Reached: UNKNOWN.
-Stop Reached: UNKNOWN.
-Time In Trade: N/A.
-Entry Quality: Unknown.
-Exit Quality: Unknown.
-Thesis Quality: Good — strong earnings and Anthropic partnership catalyst, offset by gap-reversal risk.
-Risk Management: Good in design; not testable without execution data.
-Execution Quality: Unknown.
-Reason For Outcome: No reliable evidence establishes that the WAIT confirmation occurred or that a position was opened.
-
-### #3 — CRWD — CrowdStrike
-Original Recommendation: WAIT for reclaim/hold above VWAP or opening-range high with confirming volume.
-Original Entry: Premarket reference $206.20; confirmation-based entry only.
-Actual/Estimated Entry: UNKNOWN — no reliable intraday monitoring or execution record.
-Entry Time: UNKNOWN.
-Stop Loss: 2.0% below confirmed entry.
-Profit Target: 4.0% above confirmed entry.
-Actual/Estimated Exit: UNKNOWN — no reliable execution record.
-Exit Time: UNKNOWN.
-Trade Status: UNKNOWN.
-Actual Return: N/A.
-Dollar Change Per Share: N/A.
-Expected Return: 4.0%.
-Performance Difference: N/A.
-MFE: N/A.
-MAE: N/A.
-Target Reached: UNKNOWN.
-Stop Reached: UNKNOWN.
-Time In Trade: N/A.
-Entry Quality: Unknown.
-Exit Quality: Unknown.
-Thesis Quality: Good — strong quarterly results and outlook, with elevated volatility.
-Risk Management: Good in design; not testable without execution data.
-Execution Quality: Unknown.
-Reason For Outcome: No reliable evidence establishes that the WAIT confirmation occurred or that a position was opened.
-
----
-
-## INTRADAY MONITOR SUMMARY
-
-### #1 — NVDA
-No reliable intraday monitoring record was available for confirmation timing, VWAP, opening-range behavior, high/low sequence, target/stop order, or exit.
-
-### #2 — CRM
-No reliable intraday monitoring record was available for confirmation timing, VWAP, opening-range behavior, high/low sequence, target/stop order, or exit.
-
-### #3 — CRWD
-No reliable intraday monitoring record was available for confirmation timing, VWAP, opening-range behavior, high/low sequence, target/stop order, or exit.
-
----
-
-## EXPECTED VS ACTUAL
-
-| Ticker | Expected Return | Actual Return | Difference | Confidence | Outcome |
-|---|---:|---:|---:|---:|---|
-| NVDA | 3.0% | N/A | N/A | 58% | UNKNOWN |
-| CRM | 3.6% | N/A | N/A | 55% | UNKNOWN |
-| CRWD | 4.0% | N/A | N/A | 52% | UNKNOWN |
-
----
-
-## DAILY PERFORMANCE
-
-Trading Days: 1.
-
-Qualifying Trades: 3.
-
-Executed Trades: 0 confirmed.
-
-Profitable Trades: 0 confirmed.
-
-Losing Trades: 0 confirmed.
-
-No-Entry Trades: 0 confirmed.
-
-Unknown Trades: 3.
-
-Win Rate: N/A.
-
-Average Return: N/A.
-
-Average Expected Return: 3.53%.
-
-Average Confidence: 55.0%.
-
-Average MFE: N/A.
-
-Average MAE: N/A.
-
-Target Hit Rate: N/A.
-
-Stop Hit Rate: N/A.
-
-No-Entry Rate: N/A.
-
-Total Simple Percentage Return: N/A.
-
-This is not a portfolio return unless equal capital was actually allocated to each trade.
-
-Best Trade: UNKNOWN.
-
-Worst Trade: UNKNOWN.
-
----
-
-## MARKET REVIEW
-
-SPY: Up approximately 0.72% on August 27, 2026, based on published close reports.
-
-QQQ: Nasdaq composite rose approximately 1.57%; exact QQQ close not independently verified in the available sources.
-
-VIX: Reported lower by approximately 4.60% in the market-close summary; exact closing level not independently verified.
-
-Market Trend: Bullish and technology-led.
-
-Sector Conditions: Information technology, semiconductors, software, and cybersecurity were strong. NVDA closed at $227.98, up 8.74%; CRM rose 22.58%; CRWD rose 20.52% according to published market reports.
-
-Major News: Nvidia earnings and forward guidance supported the AI trade; Salesforce reported strong results and an Anthropic partnership; CrowdStrike reported a record quarter and raised outlook.
-
-Economic Events: Jobless claims showed labor-market resilience; investors were also focused on Federal Reserve Chair Kevin Warsh's upcoming remarks and inflation/rates uncertainty.
-
-Effect On Strategy: Helped the directional thesis, but the absence of reliable entry/exit records means execution quality and realized performance remain unverified.
-
----
-
-## WHAT WORKED
-
-- The morning plan correctly identified a strong technology and AI earnings theme.
-- Market direction and the selected catalysts were broadly aligned with the day's technology rally.
-- WAIT-only instructions, confirmation requirements, and explicit no-overnight rules reduced the risk of blindly chasing opening gaps.
-
-## WHAT DID NOT WORK
-
-- Intraday monitoring and execution records were not available, preventing confirmation of entries, exits, MFE, MAE, and realized returns.
-- Exact live technical, options, dark-pool, and quote data were already missing from the morning plan.
-
-## LESSONS FOR FUTURE TRADES
-
-- Preserve a timestamped intraday monitor for each candidate, including confirmation bars, VWAP, high/low sequence, and exit evidence.
-- Do not evaluate model performance from directional market moves alone when the setup is WAIT-only and execution is unverified.
-- Keep separate records for recommendation quality and execution quality.
-
-## DATA QUALITY
-
-Price Data: Delayed/published end-of-day reports; NVDA close verified in a market report, CRM and CRWD percentage moves verified, exact closes not independently verified here.
-
-Volume Data: Not reliably available.
-
-Options Data: Not reliably available.
-
-Dark-Pool Data: Not reliably available.
-
-News Data: Current published reports dated August 27, 2026.
-
-Timestamps: Morning plan timestamp available; intraday execution timestamps unavailable.
-
-Missing Information: trade_history.txt, strategy_performance.txt, and intraday monitoring records were not available in the repository at run time.
-
-Important Limitations: All three outcomes remain UNKNOWN. No actual return is assigned.
-
----
-
-## CUMULATIVE STRATEGY PERFORMANCE
-
-Trading Days: 1.
-
-Executed Trades: 0 confirmed.
-
-Win Rate: N/A.
-
-Average Return: N/A.
-
-Average Expected Return: 3.53%.
-
-Average Confidence: 55.0%.
-
-Average MFE: N/A.
-
-Average MAE: N/A.
-
-Target Hit Rate: N/A.
-
-Stop Hit Rate: N/A.
-
-No-Entry Rate: N/A.
-
-Total Simple Percentage Return: N/A.
-
-IMPORTANT: Total simple percentage return is NOT equivalent to portfolio return unless equal capital allocation is assumed.
-
-Data-integrity note: No trade was classified as PROFIT, LOSS, or NO_ENTRY because the plan required confirmation and no reliable intraday execution record was available.
+| Rank | Ticker | Company | Trade Status | Current/Entry Price | Entry Range | Stop Loss | Max Drop | Target | Expected Return | R/R | Entry | Exit | Confidence | Dark-Pool | RVOL | Catalyst | Key Risk | Data Quality |
+|---|---|---|---|---|---|---|---:|---|---:|---|---|---|---:|---|---|---|---|---|
+| 1 | ESTC | Elastic N.V. | BUY only if opening range holds | ~$101.95 ref. | $101.50-$102.50 | $99.45 | 2.0% | $105.00 | 3.0% | 1.5:1 | 09:30 ET | 15:45 ET | 61% | Unavailable | Strong reported momentum | Beat + raised guidance; reported +22% | Gap fade / rate shock | Delayed |
+| 2 | GAP | The Gap, Inc. | BUY only if gap holds | ~$24.19 ref. | $23.95-$24.35 | $23.55 | 2.0% | $25.10 | 3.0% | 1.5:1 | 09:30 ET | 15:45 ET | 60% | Unavailable | Strong reported momentum | Earnings beat + raised guidance; reported +14%-16% | Retail reversal | Delayed |
+| 3 | AFRM | Affirm Holdings | BUY only if first 5-min range holds | Live price unavailable | First 5-min range; no chase >3% | 2.0% below entry | 2.0% | +3.5% | 3.5% | 1.75:1 | 09:30 ET | 15:45 ET | 58% | Unavailable | Strong reported momentum | Strong Q4 beat, revenue ~$1.2B, GMV +36%, Shopify partnership | High beta / credit sensitivity | Delayed |
+
+## EXECUTIVE VERDICT
+
+ESTC ranks first on fresh earnings, raised guidance, and strong reported momentum. GAP ranks second on earnings and guidance but has more gap-reversal risk. AFRM ranks third because the catalyst is strong but volatility and rate sensitivity are higher. Broad market tone is bullish but headline-sensitive after Nvidia-led technology strength, with investors focused on Federal Reserve Chair Kevin Warsh's Jackson Hole remarks. citeturn937212search0turn937212news38turn937212news44
+
+## DETAILED ANALYSIS
+
+### #1 — ESTC — Elastic N.V.
+Trade plan: Buy only if the opening price holds the $101.50-$102.50 reference zone; stop $99.45; target $105.00; exit by 15:45 ET. Expected return 3.0%; confidence 61%.
+Technical: Exact live VWAP, RSI, MACD, moving averages, ATR, support/resistance, volume, RVOL, liquidity and spread unavailable. Momentum continuation is valid only while the opening range holds.
+Catalyst: Earnings beat, revenue about $478M, and raised full-year guidance; move linked to AI demand. citeturn937212news38
+Options/dark pool: Reliable data unavailable.
+Invalidation: Opening-range failure, loss of VWAP, excessive spread, or negative macro headline.
+
+### #2 — GAP — The Gap, Inc.
+Trade plan: Buy only if $23.95-$24.35 holds; stop $23.55; target $25.10; exit by 15:45 ET. Expected return 3.0%; confidence 60%.
+Technical: Exact live indicators and order-book data unavailable; setup depends on holding the post-earnings gap.
+Catalyst: Q2 beat, raised FY26 guidance, and Old Navy leadership change. citeturn937212news37turn937212search1
+Options/dark pool: Reliable data unavailable.
+Invalidation: Gap retracement, weak opening volume, or market reversal.
+
+### #3 — AFRM — Affirm Holdings
+Trade plan: Use first 5-minute opening range; no chase above 3% from open; stop 2.0% below confirmed entry; target +3.5%; exit by 15:45 ET. Expected return 3.5%; confidence 58%.
+Technical: Exact live price and indicators unavailable; opening-range confirmation required.
+Catalyst: Strong fiscal Q4 beat, revenue about $1.2B, GMV +36%, improved margins, lower delinquency, positive analyst actions, and Shopify partnership. citeturn937212news36
+Options/dark pool: Reliable data unavailable.
+Invalidation: Opening-range failure, loss of VWAP, deteriorating fintech sentiment, or excessive spread.
+
+## FINAL ASSESSMENT
+
+Best overall trade: ESTC, conditional on opening-range strength.
+Second: GAP, conditional on avoiding a gap fade.
+Third: AFRM, conditional on confirmed opening-range strength.
+Market: Bullish but headline-sensitive.
+Avoid: Any setup without opening-range confirmation or with excessive spread.
+Qualifying trades: 3 conditional setups.
+Most important risk: Fed/rates headline reverses early momentum.
+
+This is probabilistic analysis, not guaranteed financial advice. Do not treat the reference prices as confirmed live quotes. Never hold overnight.
