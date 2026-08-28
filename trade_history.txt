@@ -55,14 +55,14 @@ Sector condition: Software/security supportive but volatile
 Dark-pool signal: Unavailable
 Key risk: High-volatility false breakout
 
-END-OF-DAY RESULTS — 2026-08-27
+END-OF-DAY RESULTS — 2026-08-28
 
-Daily summary: Published market reports showed a strong technology-led session, but no reliable intraday monitoring or execution record was available. Because all three morning plans were WAIT-only, each outcome is classified UNKNOWN rather than PROFIT, LOSS, or NO_ENTRY.
+Daily summary: The morning plan for ESTC, GAP, and AFRM was retrieved. No reliable intraday monitoring or execution record was available, so all three outcomes are classified UNKNOWN. No entries, exits, returns, MFE, MAE, target/stop sequence, or execution quality can be confirmed.
 
-NVDA: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
-CRM: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
-CRWD: UNKNOWN. No reliable confirmation, entry, exit, target/stop sequence, MFE, MAE, or execution record.
+ESTC: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
+GAP: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
+AFRM: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
 
-Market conditions: Bullish and technology-led. SPY rose about 0.72%; Nasdaq composite rose about 1.57%; VIX was reported lower by about 4.60%. NVDA rose 8.74%, CRM 22.58%, and CRWD 20.52% in published close reports.
+Market review: Published reports indicate a modestly negative session on Friday, August 28, 2026. The S&P 500 fell about 0.2%-0.3%, Nasdaq about 0.5%, Russell 2000 about 1.2%-1.4%, and VIX rose modestly while remaining below 15. Higher Treasury yields and a hawkish Federal Reserve message at Jackson Hole pressured growth and rate-sensitive stocks. citeturn300412news13turn300412news14turn300412search0
 
-Lessons learned: Preserve timestamped intraday monitor data and execution evidence; do not infer trade performance from directional movement when the setup was WAIT-only.
+Lessons learned: Preserve timestamped intraday monitoring and execution evidence; do not infer performance from daily closing direction or published market reports when the plan required confirmation.
