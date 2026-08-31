@@ -1,17 +1,17 @@
 STRATEGY PERFORMANCE
 
-Trading Days: 2
-Total Qualifying Trades: 6
+Trading Days: 3
+Total Qualifying Trades: 9
 Total Executed Trades: 0 confirmed
 Profitable Trades: 0 confirmed
 Losing Trades: 0 confirmed
 No-Entry Trades: 0 confirmed
 No-Trade Decisions: 0
-Unknown Outcomes: 6
+Unknown Outcomes: 9
 Win Rate: N/A — no confirmed executions
 Average Actual Return: N/A
-Average Expected Return: 3.35%
-Average Confidence: 57.3%
+Average Expected Return: 3.17% across morning plans
+Average Confidence: 58.7% across morning plans
 Average Performance Difference: N/A
 Average MFE: N/A
 Average MAE: N/A
@@ -25,19 +25,19 @@ Total Simple Percentage Return: N/A
 SIGNAL PERFORMANCE
 
 Relative Volume: Insufficient observations
-Catalyst: Insufficient observations; catalysts were documented but execution and outcome data are unverified
-VWAP: Insufficient observations; confirmation data unavailable
-Momentum: Insufficient observations; 2026-08-28 market reports showed growth momentum weakened after a hawkish Fed message
-Market Condition: 2-day small sample; 2026-08-27 bullish/event-driven and 2026-08-28 modestly bearish/hawkish
-Sector Condition: 2-day small sample; technology/software/semiconductor conditions mixed across the two sessions
+Catalyst: Insufficient observations; 2026-08-31 energy catalysts were documented but execution/outcome data are unverified
+VWAP: Insufficient observations; live confirmation data unavailable
+Momentum: Insufficient observations; 2026-08-31 energy relative strength was reported while broad indexes opened lower
+Market Condition: 3-day small sample; 2026-08-27 bullish/event-driven, 2026-08-28 modestly bearish/hawkish, 2026-08-31 risk-off to mixed
+Sector Condition: 3-day small sample; energy outperformed on 2026-08-31 while technology/fintech weakened previously
 Options Activity: Insufficient observations
 Dark-Pool Signal: Insufficient observations; reliable data unavailable
 Technical Setup: Insufficient observations; live technical confirmation unavailable
 
 Notes:
-- 2026-08-27 had three conditional WAIT setups and zero confirmed executions.
-- 2026-08-28 had three conditional setups (ESTC, GAP, AFRM) and zero confirmed executions.
-- All six outcomes remain UNKNOWN because no reliable intraday monitoring or execution records were available.
+- 2026-08-27: three conditional WAIT setups; zero confirmed executions.
+- 2026-08-28: three conditional setups; zero confirmed executions.
+- 2026-08-31: three conditional energy setups (SLB, CVX, HAL); zero confirmed executions at analysis time.
 - Unknown outcomes are not counted as wins or losses.
 - Total simple percentage return is not equivalent to portfolio return unless equal capital allocation is assumed.
-- Small-sample statistics are explicitly labeled and should not be treated as statistically significant.
+- Small-sample statistics are not statistically significant.
