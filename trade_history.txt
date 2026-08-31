@@ -63,6 +63,61 @@ ESTC: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
 GAP: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
 AFRM: UNKNOWN. WAIT/conditional plan; confirmation and execution unverified.
 
-Market review: Published reports indicate a modestly negative session on Friday, August 28, 2026. The S&P 500 fell about 0.2%-0.3%, Nasdaq about 0.5%, Russell 2000 about 1.2%-1.4%, and VIX rose modestly while remaining below 15. Higher Treasury yields and a hawkish Federal Reserve message at Jackson Hole pressured growth and rate-sensitive stocks. citeturn300412news13turn300412news14turn300412search0
+MORNING PLAN — 2026-08-31
 
-Lessons learned: Preserve timestamped intraday monitoring and execution evidence; do not infer performance from daily closing direction or published market reports when the plan required confirmation.
+Analysis timestamp: 2026-08-31 09:45 ET
+Market condition: Risk-off to mixed; broad indexes opened lower while energy outperformed as Brent moved above $90.
+Data quality: Current news reports plus delayed/historical quote references; live quote, indicators, options, and dark-pool fields unavailable.
+
+Rank: 1
+Ticker: SLB
+Company: Schlumberger
+Trade status: BUY only on opening-range/VWAP hold
+Entry range: $57.10-$57.60 reference; use live quote at decision time
+Planned entry: 09:30-10:00 ET after confirmation
+Stop: $56.15
+Target: $59.35
+Planned exit: 15:45 ET
+Expected return: 3.5%
+Confidence: 63%
+Catalyst: $4.1B Kelvion data-center cooling acquisition; energy-sector strength
+Market condition: Risk-off to mixed
+Sector condition: Energy bullish relative to broad market
+Dark-pool signal: Unavailable
+Key risk: Geopolitical/oil reversal
+
+Rank: 2
+Ticker: CVX
+Company: Chevron
+Trade status: BUY only above opening-range high and VWAP
+Entry range: $201.80-$203.00 reference; use live quote at decision time
+Planned entry: 09:30-10:00 ET after confirmation
+Stop: $198.60
+Target: $207.00
+Planned exit: 15:45 ET
+Expected return: 2.4%
+Confidence: 61%
+Catalyst: Oil above $90; Venezuela expansion headlines
+Market condition: Risk-off to mixed
+Sector condition: Energy bullish relative to broad market
+Dark-pool signal: Unavailable
+Key risk: Headline-driven gap reversal
+
+Rank: 3
+Ticker: HAL
+Company: Halliburton
+Trade status: BUY only if energy relative strength persists
+Entry range: $36.40-$36.80 reference; use live quote at decision time
+Planned entry: 09:30-10:00 ET after confirmation
+Stop: $35.70
+Target: $38.00
+Planned exit: 15:45 ET
+Expected return: 3.3%
+Confidence: 58%
+Catalyst: Broad energy-sector bid from higher crude
+Market condition: Risk-off to mixed
+Sector condition: Energy bullish relative to broad market
+Dark-pool signal: Unavailable
+Key risk: Weaker reward/risk; oil spike fades
+
+Notes: All three are conditional setups. No recommendation is an executed trade. Reliable dark-pool and options data were unavailable. Sources include Reuters, AP, MarketWatch, Barron's, and StockAnalysis reports dated August 31, 2026.
