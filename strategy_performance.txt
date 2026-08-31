@@ -25,9 +25,9 @@ Total Simple Percentage Return: N/A
 SIGNAL PERFORMANCE
 
 Relative Volume: Insufficient observations
-Catalyst: Insufficient observations; 2026-08-31 energy catalysts were documented but execution/outcome data are unverified
+Catalyst: Insufficient observations; energy catalysts on 2026-08-31 were directionally supported by the session, but execution/outcome data are unverified
 VWAP: Insufficient observations; live confirmation data unavailable
-Momentum: Insufficient observations; 2026-08-31 energy relative strength was reported while broad indexes opened lower
+Momentum: Insufficient observations; energy stocks outperformed while broad indexes declined on 2026-08-31
 Market Condition: 3-day small sample; 2026-08-27 bullish/event-driven, 2026-08-28 modestly bearish/hawkish, 2026-08-31 risk-off to mixed
 Sector Condition: 3-day small sample; energy outperformed on 2026-08-31 while technology/fintech weakened previously
 Options Activity: Insufficient observations
@@ -37,7 +37,9 @@ Technical Setup: Insufficient observations; live technical confirmation unavaila
 Notes:
 - 2026-08-27: three conditional WAIT setups; zero confirmed executions.
 - 2026-08-28: three conditional setups; zero confirmed executions.
-- 2026-08-31: three conditional energy setups (SLB, CVX, HAL); zero confirmed executions at analysis time.
+- 2026-08-31: three conditional energy setups (SLB, CVX, HAL); zero confirmed executions.
+- 2026-08-31 public close references: SLB $60.10 (+4.83%), CVX $206.14 (+2.12%), HAL $36.85 (+1.85%). These are market outcomes only and do not establish executed trades.
 - Unknown outcomes are not counted as wins or losses.
 - Total simple percentage return is not equivalent to portfolio return unless equal capital allocation is assumed.
 - Small-sample statistics are not statistically significant.
+- Process improvement required: capture timestamped intraday monitoring and execution records around each confirmation window so future EOD analysis can distinguish NO_ENTRY from UNKNOWN and calculate actual returns.
