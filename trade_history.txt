@@ -120,4 +120,14 @@ Sector condition: Energy bullish relative to broad market
 Dark-pool signal: Unavailable
 Key risk: Weaker reward/risk; oil spike fades
 
-Notes: All three are conditional setups. No recommendation is an executed trade. Reliable dark-pool and options data were unavailable. Sources include Reuters, AP, MarketWatch, Barron's, and StockAnalysis reports dated August 31, 2026.
+END-OF-DAY RESULTS — 2026-08-31
+
+Daily summary: The morning plan for SLB, CVX, and HAL was retrieved. No reliable intraday monitoring or execution record was available, so all three outcomes are classified UNKNOWN. No actual entries or exits can be confirmed, and no actual returns, MFE, MAE, target/stop sequence, or execution quality are assigned.
+
+SLB: UNKNOWN. Conditional BUY required opening-range/VWAP confirmation; execution unverified. Public end-of-day reporting showed SLB closed at $60.10, up 4.83%, but this does not establish an executed trade or intraday path from the recommended entry range.
+CVX: UNKNOWN. Conditional BUY required opening-range/VWAP confirmation; execution unverified. Public end-of-day reporting showed CVX closed at $206.14, up 2.12%, but this does not establish an executed trade or intraday path from the recommended entry range.
+HAL: UNKNOWN. Conditional BUY required continuing energy relative strength; execution unverified. Public end-of-day reporting showed HAL closed at $36.85, up 1.85%, but this does not establish an executed trade or intraday path from the recommended entry range.
+
+Market review: U.S. indexes closed lower while energy outperformed as Brent crude moved above $90 amid renewed Middle East tensions; higher Treasury yields and hawkish rate expectations added pressure to broader risk assets. Energy strength helped the directional sector thesis, but the session remained headline-sensitive.
+
+Data quality: Public historical/end-of-day market reports were available; reliable intraday execution logs, exact entry confirmation, order records, options detail, and dark-pool data were unavailable. Unknown outcomes are not counted as wins or losses.
