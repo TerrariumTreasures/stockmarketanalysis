@@ -1,20 +1,179 @@
-CURRENT INTRADAY TRADING PLAN — 2026-08-31
-Analysis timestamp: 2026-08-31 09:45 ET
+# FINAL END-OF-DAY REPORT — 2026-08-31
 
-EXECUTIVE SUMMARY
-1) SLB — conditional BUY on opening-range/VWAP hold. Entry $57.10-$57.60 reference; stop $56.15; target $59.35; expected +3.5%; R/R ~2.1:1; confidence 63%. Catalyst: $4.1B Kelvion data-center cooling acquisition plus energy-sector strength. Data quality: delayed/historical price reference + current news; live quote/indicators unavailable.
-2) CVX — conditional BUY above opening-range high and VWAP. Entry $201.80-$203.00 reference; stop $198.60; target $207.00; expected +2.4%; R/R ~1.6:1; confidence 61%. Catalyst: oil >$90 and Venezuela expansion headlines. Data quality: delayed/historical reference + current news; live quote/indicators unavailable.
-3) HAL — conditional BUY only if energy relative strength persists. Entry $36.40-$36.80 reference; stop $35.70; target $38.00; expected +3.3%; R/R ~1.2:1; confidence 58%. Catalyst: energy-sector rotation. Data quality: delayed/historical reference + current news; live quote/indicators unavailable.
+## EXECUTIVE SUMMARY
+Market Condition: Risk-off to mixed; broad indexes lower, energy strongest sector, Brent above $90, headline-sensitive.
+Qualifying Trades: 3 conditional setups.
+Actual Entries: 0 confirmed.
+Profitable Trades: 0 confirmed.
+Losing Trades: 0 confirmed.
+No-Entry Trades: 0 confirmed.
+Unknown Trades: 3.
+Win Rate: N/A — no confirmed executions.
+Average Actual Return: N/A.
+Average Expected Return: 3.07% across the three morning plans.
+Total Simple Percentage Return: N/A.
+Best Trade: UNKNOWN; SLB had the strongest public close but execution is unverified.
+Worst Trade: UNKNOWN.
+Overall Strategy Assessment: The energy-sector thesis was directionally supported by the session, but execution cannot be evaluated because confirmation and order records were unavailable.
 
-EXECUTIVE VERDICT
-Market is risk-off to mixed: major indexes opened lower while energy led as oil moved above $90. Selective energy longs are favored; broad momentum chasing is not. Do not enter if the opening range fails, VWAP is lost, oil reverses sharply, or live confirmation is unavailable.
+## TRADE RESULTS
+### #1 — SLB — Schlumberger
+Original Recommendation: BUY only on opening-range/VWAP hold.
+Original Entry: $57.10-$57.60 reference; live confirmation required.
+Actual/Estimated Entry: UNKNOWN; no reliable execution record.
+Entry Time: UNKNOWN.
+Stop Loss: $56.15.
+Profit Target: $59.35.
+Actual/Estimated Exit: UNKNOWN; public close $60.10 is not an execution record.
+Exit Time: UNKNOWN.
+Trade Status: UNKNOWN.
+Actual Return: N/A.
+Dollar Change Per Share: N/A.
+Expected Return: 3.5%.
+Performance Difference: N/A.
+MFE: N/A.
+MAE: N/A.
+Target Reached: UNKNOWN.
+Stop Reached: UNKNOWN.
+Time In Trade: UNKNOWN.
+Entry Quality: Unknown.
+Exit Quality: Unknown.
+Thesis Quality: Unknown for execution; public session direction was supportive.
+Risk Management: Unknown.
+Execution Quality: Unknown.
+Reason For Outcome: Conditional setup required live opening-range/VWAP confirmation, which was not recorded.
 
-DETAILED ANALYSIS
-SLB: strongest company-specific catalyst and best reward/risk. Live VWAP, RSI, MACD, moving averages, ATR, volume, spread, options, and dark-pool data unavailable. Invalidation: loss of VWAP/opening range, break below $56.15, energy reversal, or excessive spread. Exit target $59.35, stop $56.15, or 15:45 ET; never overnight.
-CVX: liquid lower-beta energy expression with supportive oil and Venezuela headlines. Live technicals, volume, options, and dark-pool data unavailable. Invalidation: failure above opening range/VWAP, break below $198.60, or oil reversal. Exit target $207.00, stop $198.60, or 15:45 ET; never overnight.
-HAL: macro energy-rotation trade with weaker reward/risk. Live technicals, volume, options, and dark-pool data unavailable. Invalidation: loss of VWAP/opening range, break below $35.70, or energy breadth turning negative. Exit target $38.00, stop $35.70, or 15:45 ET; never overnight.
+### #2 — CVX — Chevron
+Original Recommendation: BUY only above opening-range high and VWAP.
+Original Entry: $201.80-$203.00 reference; live confirmation required.
+Actual/Estimated Entry: UNKNOWN; no reliable execution record.
+Entry Time: UNKNOWN.
+Stop Loss: $198.60.
+Profit Target: $207.00.
+Actual/Estimated Exit: UNKNOWN; public close $206.14 is not an execution record.
+Exit Time: UNKNOWN.
+Trade Status: UNKNOWN.
+Actual Return: N/A.
+Dollar Change Per Share: N/A.
+Expected Return: 2.4%.
+Performance Difference: N/A.
+MFE: N/A.
+MAE: N/A.
+Target Reached: UNKNOWN.
+Stop Reached: UNKNOWN.
+Time In Trade: UNKNOWN.
+Entry Quality: Unknown.
+Exit Quality: Unknown.
+Thesis Quality: Unknown for execution; public session direction was supportive.
+Risk Management: Unknown.
+Execution Quality: Unknown.
+Reason For Outcome: Conditional setup required live opening-range/VWAP confirmation, which was not recorded.
 
-FINAL ASSESSMENT
-Best: SLB. Second: CVX. Third: HAL. Three conditional setups qualify. Main risk is a geopolitical/rate-driven reversal that sends oil and energy shares lower. No trade should be taken without live confirmation. This is probabilistic analysis, not guaranteed financial advice.
+### #3 — HAL — Halliburton
+Original Recommendation: BUY only if energy relative strength persists.
+Original Entry: $36.40-$36.80 reference; live confirmation required.
+Actual/Estimated Entry: UNKNOWN; no reliable execution record.
+Entry Time: UNKNOWN.
+Stop Loss: $35.70.
+Profit Target: $38.00.
+Actual/Estimated Exit: UNKNOWN; public close $36.85 is not an execution record.
+Exit Time: UNKNOWN.
+Trade Status: UNKNOWN.
+Actual Return: N/A.
+Dollar Change Per Share: N/A.
+Expected Return: 3.3%.
+Performance Difference: N/A.
+MFE: N/A.
+MAE: N/A.
+Target Reached: UNKNOWN.
+Stop Reached: UNKNOWN.
+Time In Trade: UNKNOWN.
+Entry Quality: Unknown.
+Exit Quality: Unknown.
+Thesis Quality: Unknown for execution; public session direction was supportive.
+Risk Management: Unknown.
+Execution Quality: Unknown.
+Reason For Outcome: Conditional setup required continuing energy relative strength, which was not recorded.
 
-Sources: Reuters/MarketWatch/AP/Barron's reports dated August 31, 2026. Reliable dark-pool and options data were unavailable and were not fabricated.
+## INTRADAY MONITOR SUMMARY
+### #1 — SLB
+No reliable chronological intraday monitoring or order record available. Public end-of-day reporting: close $60.10, +4.83%.
+### #2 — CVX
+No reliable chronological intraday monitoring or order record available. Public end-of-day reporting: close $206.14, +2.12%.
+### #3 — HAL
+No reliable chronological intraday monitoring or order record available. Public end-of-day reporting: close $36.85, +1.85%.
+
+## EXPECTED VS ACTUAL
+| Ticker | Expected Return | Actual Return | Difference | Confidence | Outcome |
+|---|---:|---:|---:|---:|---|
+| SLB | 3.5% | N/A | N/A | 63% | UNKNOWN |
+| CVX | 2.4% | N/A | N/A | 61% | UNKNOWN |
+| HAL | 3.3% | N/A | N/A | 58% | UNKNOWN |
+
+## DAILY PERFORMANCE
+Trading Days: 3.
+Qualifying Trades: 9 cumulative; 3 today.
+Executed Trades: 0 confirmed.
+Profitable Trades: 0 confirmed.
+Losing Trades: 0 confirmed.
+No-Entry Trades: 0 confirmed.
+Unknown Trades: 9 cumulative; 3 today.
+Win Rate: N/A.
+Average Return: N/A.
+Average Expected Return: 3.07% today.
+Average Confidence: 60.7% today.
+Average MFE: N/A.
+Average MAE: N/A.
+Target Hit Rate: N/A.
+Stop Hit Rate: N/A.
+No-Entry Rate: N/A.
+Total Simple Percentage Return: N/A.
+Best Trade: UNKNOWN.
+Worst Trade: UNKNOWN.
+
+## MARKET REVIEW
+SPY: Broad market lower; exact ETF close not independently verified in the available record.
+QQQ: Nasdaq lower/slightly negative according to published market reports.
+VIX: Exact close not independently verified in the available record.
+Market Trend: Risk-off to mixed.
+Sector Conditions: Energy strongest sector; SLB, CVX, and HAL all advanced.
+Major News: Renewed Middle East tensions and oil-price surge; Brent crude above $90.
+Economic Events: Higher Treasury yields and hawkish rate expectations increased pressure on growth assets.
+Effect On Strategy: Helped the energy-sector thesis but created headline and reversal risk.
+
+## WHAT WORKED
+The sector-selection logic was directionally aligned with the session: energy outperformed while the broader market declined. Public reports showed SLB +4.83%, CVX +2.12%, and HAL +1.85%.
+
+## WHAT DID NOT WORK
+The process did not capture reliable intraday confirmation, execution logs, or monitoring records, preventing objective evaluation of entry quality, stop/target sequence, and realized returns.
+
+## LESSONS FOR FUTURE TRADES
+Require timestamped intraday snapshots around the planned 09:30-10:00 ET confirmation window. Preserve exact entry/exit records separately from market commentary. Do not infer execution from a favorable closing price. Keep dark-pool and options fields explicitly marked unavailable when not verifiable.
+
+## DATA QUALITY
+Price Data: Historical/end-of-day public reports available.
+Volume Data: Public volume available for SLB/CVX/HAL in market reports, but no intraday path.
+Options Data: Unavailable.
+Dark-Pool Data: Unavailable.
+News Data: Current published market reports available.
+Timestamps: Morning plan timestamp available; execution timestamps unavailable.
+Missing Information: Intraday quotes, VWAP, opening range, exact confirmation, orders, exits, MFE, MAE.
+Important Limitations: Closing prices do not establish that a conditional trade was entered or that the target/stop was reached first.
+
+## CUMULATIVE STRATEGY PERFORMANCE
+Trading Days: 3.
+Executed Trades: 0 confirmed.
+Win Rate: N/A.
+Average Return: N/A.
+Average Expected Return: 3.17% across all morning plans.
+Average Confidence: 58.7% across all morning plans.
+Average MFE: N/A.
+Average MAE: N/A.
+Target Hit Rate: N/A.
+Stop Hit Rate: N/A.
+No-Entry Rate: N/A.
+Total Simple Percentage Return: N/A.
+IMPORTANT: Total simple percentage return is NOT equivalent to portfolio return unless equal capital allocation is assumed.
+
+FINAL DATA-INTEGRITY RULES APPLIED
+No entry, exit, return, MFE, MAE, or target/stop result was fabricated. No recommendation was treated as an executed trade. UNKNOWN outcomes were not counted as wins or losses. Historical records were preserved.
