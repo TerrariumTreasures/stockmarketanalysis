@@ -131,3 +131,64 @@ HAL: UNKNOWN. Conditional BUY required continuing energy relative strength; exec
 Market review: U.S. indexes closed lower while energy outperformed as Brent crude moved above $90 amid renewed Middle East tensions; higher Treasury yields and hawkish rate expectations added pressure to broader risk assets. Energy strength helped the directional sector thesis, but the session remained headline-sensitive.
 
 Data quality: Public historical/end-of-day market reports were available; reliable intraday execution logs, exact entry confirmation, order records, options detail, and dark-pool data were unavailable. Unknown outcomes are not counted as wins or losses.
+
+MORNING PLAN — 2026-09-01
+
+Analysis timestamp: 2026-09-01 09:14 ET
+Market condition: Risk-off to mixed; S&P futures about -0.56%, Nasdaq futures about -1.03%, VIX about 15.86 (+6.3%), crude oil higher, yields elevated. Energy relatively strong; growth/tech under pressure.
+Data quality: Mixed. Current public premarket/news references available; exact live bid/ask, VWAP, RSI, MACD, ATR, opening range, options flow, and dark-pool data not independently verified.
+
+Rank: 1
+Ticker: XOM
+Company: Exxon Mobil
+Trade status: BUY only if premarket strength holds and opening range confirms
+Entry range: $160.60-$161.30 reference
+Planned entry: 09:30-09:45 ET after confirmation
+Stop: $158.90
+Target: $164.20
+Planned exit: 15:45 ET
+Expected return: 2.0%
+Confidence: 62%
+Catalyst: Crude oil strength; energy leadership
+Market condition: Risk-off to mixed
+Sector condition: Energy bullish relative to broad market
+Dark-pool signal: Unavailable
+Key risk: Oil/geopolitical reversal
+
+Rank: 2
+Ticker: CVX
+Company: Chevron
+Trade status: BUY only above opening-range high and VWAP
+Entry range: $205.70-$206.50 reference
+Planned entry: 09:30-09:45 ET after confirmation
+Stop: $203.80
+Target: $209.80
+Planned exit: 15:45 ET
+Expected return: 1.8%
+Confidence: 60%
+Catalyst: Crude oil strength; relative energy strength
+Market condition: Risk-off to mixed
+Sector condition: Energy bullish relative to broad market
+Dark-pool signal: Unavailable
+Key risk: Headline-driven reversal
+
+Rank: 3
+Ticker: HOOD
+Company: Robinhood Markets
+Trade status: BUY only if upgrade-driven gap holds above opening range
+Entry range: $104.70-$105.50 reference
+Planned entry: 09:30-09:45 ET after confirmation
+Stop: $102.90
+Target: $109.30
+Planned exit: 15:45 ET
+Expected return: 4.0%
+Confidence: 58%
+Catalyst: Morgan Stanley upgrade to Overweight; price target raised to $150
+Market condition: Risk-off to mixed
+Sector condition: High-beta growth/financial platform under macro pressure
+Dark-pool signal: Unavailable
+Key risk: High-beta risk-off reversal
+
+END-OF-DAY RESULTS — 2026-09-01
+
+Pending. This section must be completed by the end-of-day automation. Do not infer execution from closing prices alone.
