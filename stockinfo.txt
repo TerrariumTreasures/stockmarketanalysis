@@ -1,174 +1,177 @@
-CURRENT INTRADAY TRADING PLAN — 2026-09-01
-Analysis timestamp: 2026-09-01 09:14 ET
+CURRENT INTRADAY TRADING PLAN — 2026-09-03
+Analysis timestamp: 2026-09-03 09:47 ET
 
 ## EXECUTIVE SUMMARY
-Market Condition: Risk-off to mixed; S&P futures about -0.56%, Nasdaq futures about -1.03%, VIX about 15.86 (+6.3%), crude oil higher, yields elevated. Energy is relatively strong; growth/tech is under pressure.
-Data quality: Mixed. Current public premarket/news references available; exact live bid/ask, VWAP, RSI, MACD, ATR, opening range, options flow, and dark-pool data are not independently verified.
+Market condition: Mixed to cautiously bullish at the open. Major indexes opened higher after dovish Fed commentary, while oil remained elevated near $93 and geopolitical risk stayed high. VIX was just over 15, suggesting contained implied volatility but possible complacency.
+Data quality: Mixed. Fresh market/news reports available; exact live bid/ask, VWAP, RSI, MACD, ATR, opening range, options flow, relative volume, and dark-pool data were not independently verified.
 
 | Rank | Ticker | Company | Trade Status | Current/Entry Price | Entry Range | Stop Loss | Maximum Drop % | Profit Target | Expected Return % | Risk/Reward | Planned Entry Time | Planned Exit Time | Confidence % | Dark-Pool Signal | Relative Volume | Catalyst | Key Risk | Data Quality |
 |---|---|---|---|---|---|---:|---:|---:|---:|---:|---|---|---:|---|---|---|---|---|
-| 1 | XOM | Exxon Mobil | BUY only if premarket strength holds and opening range confirms | $160.95 reference | $160.60-$161.30 | $158.90 | 1.3% | $164.20 | 2.0% | 1.9:1 | 09:30-09:45 ET | 15:45 ET | 62% | Unavailable | Unavailable | Crude oil strength; energy leadership | Oil/geopolitical reversal | Delayed/reference quote |
-| 2 | CVX | Chevron | BUY only above opening-range high and VWAP | $206.14 reference | $205.70-$206.50 | $203.80 | 1.1% | $209.80 | 1.8% | 1.7:1 | 09:30-09:45 ET | 15:45 ET | 60% | Unavailable | Unavailable | Crude oil strength; relative energy strength | Headline-driven reversal | Delayed/reference quote |
-| 3 | HOOD | Robinhood Markets | BUY only if upgrade-driven gap holds above opening range | $105.12 reference | $104.70-$105.50 | $102.90 | 2.1% | $109.30 | 4.0% | 1.9:1 | 09:30-09:45 ET | 15:45 ET | 58% | Unavailable | Unavailable | Morgan Stanley upgrade to Overweight; PT raised to $150 | High-beta risk-off reversal | Delayed/reference quote |
+| 1 | HPE | Hewlett Packard Enterprise | BUY only if post-open strength holds above VWAP/opening range | $51.83 reference | $51.60-$52.10 | $50.70 | 2.1% | $53.70 | 3.6% | 1.7:1 | 09:50-10:10 ET after confirmation | 15:45 ET | 61% | Unavailable | Unavailable | Raised outlook; AI/server demand; Oracle partnership | Supply constraints; gap fade | Delayed/reference quote |
+| 2 | SNOW | Snowflake | BUY only on continuation above opening range; avoid chasing a failed gap | $305.84 reference | $303.50-$307.50 | $297.00 | 2.8% | $319.00 | 4.3% | 1.5:1 | 09:50-10:10 ET after confirmation | 15:45 ET | 58% | Unavailable | Unavailable | Strong earnings; raised FY product-revenue outlook; AI demand | 20%+ gap reversal; premium valuation | Delayed/reference quote |
+| 3 | TSLA | Tesla | BUY only if Cybercab catalyst produces sustained breakout | ~$360.80 reference | $358.50-$362.50 | $351.50 | 2.5% | $372.00 | 3.0% | 1.2:1 | 09:50-10:15 ET after confirmation | 15:45 ET | 55% | Unavailable | Unavailable | Cybercab event; autonomy narrative | Event volatility; resistance; valuation | Reference/event data |
 
 ## EXECUTIVE VERDICT
-#1 XOM: Best fit for the macro tape because energy is outperforming while broad indexes and technology futures are weaker. The trade is conditional on holding the opening range; do not chase a failed breakout.
-#2 CVX: Similar energy setup with slightly lower expected return than XOM but strong liquidity and a clear relative-strength theme.
-#3 HOOD: Strong company-specific catalyst, but the risk-off tape and elevated volatility make it less reliable than energy for a same-day trade.
-Overall market condition: Risk-off to mixed and headline-sensitive.
-Environment favorable for intraday trading: Only selectively; energy is favored, growth is less favorable.
-BUY vs WAIT: All three are conditional BUY setups; do not enter without opening-range confirmation and acceptable spread.
+#1 HPE: Best probability-adjusted setup because the catalyst is fresh, the stock is liquid, the AI-infrastructure theme is active, and the move is less extended than Snowflake's.
+#2 SNOW: Best upside potential, but the reported >20% premarket move creates substantial exhaustion and gap-fade risk.
+#3 TSLA: Strong event catalyst, but the setup has the weakest reward/risk and the most binary headline risk.
+Overall market condition: Mixed to cautiously bullish; broad indexes opened higher, Nasdaq gained roughly 0.45%, VIX stayed near 15, oil rose near $93, and yields eased after dovish Fed commentary.
+Environment favorable for intraday trading: Selectively favorable for catalyst-driven names; do not chase extended gaps.
+BUY vs WAIT: All three are conditional BUY setups only after confirmation. If opening-range/VWAP confirmation fails, return NO TRADE.
 Number of qualifying trades: 3 conditional setups.
 
-## #1 — XOM — Exxon Mobil
+## #1 — HPE — Hewlett Packard Enterprise
 TRADE PLAN
-- Trade Status: BUY only if price holds the opening range and remains above the premarket reference.
-- Recommended Entry: $160.95 reference.
-- Entry Range: $160.60-$161.30.
-- Stop Loss: $158.90.
-- Maximum Acceptable Drop: Approximately 1.3% from the midpoint reference.
-- Profit Target: $164.20.
-- Expected Return: Approximately 2.0%.
-- Risk/Reward: Approximately 1.9:1.
-- Planned Entry: 09:30-09:45 ET after confirmation.
-- Planned Exit: 2026-09-01 15:45 ET.
-- Confidence: 62%.
+- Trade Status: BUY only if price holds above VWAP and the first 5-15 minute opening range.
+- Recommended Entry: $51.83 reference.
+- Entry Range: $51.60-$52.10.
+- Stop Loss: $50.70.
+- Maximum Acceptable Drop: Approximately 2.1% from the midpoint reference.
+- Profit Target: $53.70.
+- Expected Return: Approximately 3.6%.
+- Risk/Reward: Approximately 1.7:1.
+- Planned Entry: 09:50-10:10 ET after confirmation.
+- Planned Exit: 2026-09-03 15:45 ET.
+- Confidence: 61%.
 
 TECHNICAL ANALYSIS
-Public references show XOM around $160.95 and up about 2.71% in early trading. Exact VWAP, RSI, MACD, moving averages, ATR, premarket high/low, opening range, volume, relative volume, liquidity, and bid/ask spread are not independently verified in this run. Entry is therefore conditional on the stock holding the first 5-15 minute range and not losing the premarket reference immediately after the open.
+A fresh market reference placed HPE near $51.83 and up about 1.89% in early trading. Exact live VWAP, RSI, MACD, moving averages, ATR, premarket high/low, opening range, volume, relative volume, liquidity, and bid/ask spread were not independently verified. The setup requires holding the opening range and VWAP; do not buy a failed breakout.
 
 CATALYST ANALYSIS
-The catalyst is macro/sector-driven: Brent crude moved above $92 and energy stocks were among the few areas showing relative strength while broad futures declined. This supports an opening momentum trade but also creates reversal risk if oil headlines cool.
+HPE reported record fiscal-third-quarter earnings and revenue, raised its fiscal-2026 revenue-growth outlook to 34%-37%, and highlighted strong AI/server demand. It also announced an expanded Oracle partnership for HPE Juniper Networking in Oracle AI data centers. Supply-chain constraints and higher component costs remain a risk. citeturn481205news33turn481205news37
 
 OPTIONS ANALYSIS
 Reliable options volume, open interest, IV, put/call activity, unusual activity, and key strikes were unavailable.
 
 DARK-POOL / INSTITUTIONAL ANALYSIS
-Reliable dark-pool/off-exchange data was unavailable. No directional dark-pool conclusion is made.
+Reliable dark-pool/off-exchange data was unavailable. No directional conclusion is made.
 
 MARKET & SECTOR ANALYSIS
-SPY: bearish/weak premarket reference. QQQ: weaker than SPY, with Nasdaq futures down about 1.03%. VIX: elevated near 15.86. Futures: unfavorable for broad risk, but energy is relatively strong. Sector: energy bullish relative to the broader tape.
+SPY and QQQ opened higher, but oil remained elevated and geopolitical risk persisted. AI infrastructure was relatively strong, while the broader tape remained headline-sensitive.
 
 TRADE THESIS
-XOM ranks first because it best matches the current factor regime: higher oil and relative energy strength against weak growth exposure. Its expected return is moderate, but the setup has better macro alignment than the higher-beta alternatives.
+HPE ranks first because it combines a fresh fundamental catalyst, AI-infrastructure demand, and a smaller extension than SNOW. The setup is still conditional because the market can reverse quickly.
 
 INVALIDATION CONDITIONS
-- Failure to hold the opening range.
-- Loss of the premarket reference with broad-market acceleration lower.
-- Oil reversing sharply or energy ETF relative strength fading.
-- Spread becoming too wide for a clean fill.
-
-EXIT STRATEGY
-Take profit near $164.20, exit at $158.90 if the technical thesis fails, or close by 15:45 ET regardless of outcome. Never hold overnight.
-
-KEY RISKS
-Geopolitical headline reversal, oil-price retracement, broad-market selloff, slippage around the open, and inability to verify live technical levels.
-
-DATA QUALITY
-Timestamp: 2026-09-01 09:14 ET. Public delayed/reference quote and current news used. Missing: exact live quote, VWAP, RSI, MACD, ATR, opening range, bid/ask, options, dark-pool, and intraday volume detail.
-
-## #2 — CVX — Chevron
-TRADE PLAN
-- Trade Status: BUY only above the opening-range high and VWAP.
-- Recommended Entry: $206.14 reference.
-- Entry Range: $205.70-$206.50.
-- Stop Loss: $203.80.
-- Maximum Acceptable Drop: Approximately 1.1% from the midpoint reference.
-- Profit Target: $209.80.
-- Expected Return: Approximately 1.8%.
-- Risk/Reward: Approximately 1.7:1.
-- Planned Entry: 09:30-09:45 ET after confirmation.
-- Planned Exit: 2026-09-01 15:45 ET.
-- Confidence: 60%.
-
-TECHNICAL ANALYSIS
-A current published reference placed CVX near $206.14 and up roughly 1.5%-2.1% in early trading. Exact live indicators and opening-range data were unavailable, so the trade requires confirmation above the first range high and acceptance above VWAP after the open.
-
-CATALYST ANALYSIS
-The catalyst is higher crude and continued attention to oil-supply/geopolitical risk. The energy bid is supportive, but the move is headline-sensitive.
-
-OPTIONS ANALYSIS
-Reliable options-chain and flow data unavailable.
-
-DARK-POOL / INSTITUTIONAL ANALYSIS
-Reliable dark-pool/off-exchange data unavailable.
-
-MARKET & SECTOR ANALYSIS
-SPY weak; QQQ weaker; VIX elevated; energy sector relatively strong; broad risk appetite fragile.
-
-TRADE THESIS
-CVX ranks second because it provides energy exposure with strong liquidity and a clear sector tailwind, but the expected move is smaller than XOM's and the catalyst is more macro than company-specific.
-
-INVALIDATION CONDITIONS
-Loss of the premarket reference, failure to hold the opening range, or a broad-market reversal that pulls energy lower.
-
-EXIT STRATEGY
-Target $209.80, stop $203.80, or time exit by 15:45 ET. Never hold overnight.
-
-KEY RISKS
-Oil headline reversal, gap fade, elevated yields, and unverified live execution conditions.
-
-DATA QUALITY
-Timestamp: 2026-09-01 09:14 ET. Delayed/reference quote and current market news used. Exact live technical/quote/options/dark-pool fields unavailable.
-
-## #3 — HOOD — Robinhood Markets
-TRADE PLAN
-- Trade Status: BUY only if the upgrade-driven gap holds above the opening range.
-- Recommended Entry: $105.12 reference.
-- Entry Range: $104.70-$105.50.
-- Stop Loss: $102.90.
-- Maximum Acceptable Drop: Approximately 2.1% from the midpoint reference.
-- Profit Target: $109.30.
-- Expected Return: Approximately 4.0%.
-- Risk/Reward: Approximately 1.9:1.
-- Planned Entry: 09:30-09:45 ET after confirmation.
-- Planned Exit: 2026-09-01 15:45 ET.
-- Confidence: 58%.
-
-TECHNICAL ANALYSIS
-A current published reference placed HOOD near $105.12 and described the stock as up about 2.4% premarket, with a bullish chart pattern and price above key moving averages. Exact live VWAP, RSI, MACD, ATR, opening range, volume, relative volume, liquidity, and bid/ask spread were not independently verified, so this remains a conditional setup.
-
-CATALYST ANALYSIS
-Morgan Stanley upgraded HOOD to Overweight from Equal-weight and raised its price target to $150. The note cited stronger product breadth, prediction-market revenue, higher assets per customer, and improved earnings estimates. This is a strong company-specific catalyst.
-
-OPTIONS ANALYSIS
-Reliable options volume, open interest, IV, put/call, unusual activity, and strikes unavailable.
-
-DARK-POOL / INSTITUTIONAL ANALYSIS
-Reliable dark-pool/off-exchange data unavailable.
-
-MARKET & SECTOR ANALYSIS
-The broad tape is risk-off, with higher yields and weak Nasdaq futures. That backdrop is a headwind for a high-beta growth/financial platform stock, even with a positive upgrade.
-
-TRADE THESIS
-HOOD ranks third because it offers the highest expected percentage move and a strong analyst catalyst, but the macro tape is less supportive and the stock is more vulnerable to gap failure and volatility than energy names.
-
-INVALIDATION CONDITIONS
-- Failure to hold the opening range.
-- Loss of the premarket reference with QQQ weakness.
-- Upgrade catalyst fails to attract follow-through volume.
+- Loss of the first 5-15 minute low.
+- Failure to hold VWAP.
+- HPE underperforms while AI-infrastructure peers remain strong.
 - Spread or volatility becomes excessive.
 
 EXIT STRATEGY
-Target $109.30, stop $102.90, or time exit by 15:45 ET. Never hold overnight.
+Target $53.70, stop $50.70, or close by 15:45 ET. Never hold overnight.
 
 KEY RISKS
-Risk-off reversal, high beta, crypto/retail-trading sensitivity, gap fade, and unverified live execution data.
+Supply constraints, higher component costs, gap fade, macro reversal, and incomplete live technical data.
 
 DATA QUALITY
-Timestamp: 2026-09-01 09:14 ET. Current analyst-upgrade news and delayed/reference quote used. Exact live technical, options, and dark-pool fields unavailable.
+Timestamp: 2026-09-03 09:47 ET. Current news and delayed/reference quotes used. Missing: exact live quote, VWAP, RSI, MACD, ATR, opening range, bid/ask, options, dark-pool, and detailed intraday volume.
+
+## #2 — SNOW — Snowflake
+TRADE PLAN
+- Trade Status: BUY only on continuation above the opening range; avoid chasing a failed gap.
+- Recommended Entry: $305.84 reference.
+- Entry Range: $303.50-$307.50.
+- Stop Loss: $297.00.
+- Maximum Acceptable Drop: Approximately 2.8% from the midpoint reference.
+- Profit Target: $319.00.
+- Expected Return: Approximately 4.3%.
+- Risk/Reward: Approximately 1.5:1.
+- Planned Entry: 09:50-10:10 ET after confirmation.
+- Planned Exit: 2026-09-03 15:45 ET.
+- Confidence: 58%.
+
+TECHNICAL ANALYSIS
+A current market reference placed SNOW around $305.84 after a very large premarket move. Exact live technical indicators and opening-range data were not independently verified. Because the gap was reported above 20%, the primary technical risk is exhaustion; entry should occur only after a confirmed hold above the opening range and VWAP.
+
+CATALYST ANALYSIS
+Snowflake reported stronger-than-expected results, raised fiscal-2027 product-revenue guidance from $5.84 billion to $6.07 billion, and said AI products contributed materially to growth acceleration. Analysts highlighted strong demand for Cortex Code and CoWork. citeturn481205news30turn481205news32turn481205news37
+
+OPTIONS ANALYSIS
+Reliable options data unavailable.
+
+DARK-POOL / INSTITUTIONAL ANALYSIS
+Reliable dark-pool/off-exchange data unavailable.
+
+MARKET & SECTOR ANALYSIS
+Nasdaq opened higher, but yields and geopolitical risk remain relevant. Software is supported by the AI catalyst, yet the size of the gap makes SNOW more sensitive to profit-taking than HPE.
+
+TRADE THESIS
+SNOW ranks second because it has the strongest upside catalyst and expected return, but the probability-adjusted ranking is reduced by the extreme gap and premium valuation.
+
+INVALIDATION CONDITIONS
+- Opening-range failure.
+- Loss of VWAP.
+- Gap retracement through the reference zone.
+- Weak continuation volume or broad software weakness.
+
+EXIT STRATEGY
+Target $319.00, stop $297.00, or close by 15:45 ET. Never hold overnight.
+
+KEY RISKS
+Gap-and-fade, valuation compression, profit-taking, software-sector reversal, and incomplete live execution data.
+
+DATA QUALITY
+Timestamp: 2026-09-03 09:47 ET. Current earnings/news and delayed/reference quote used. Exact live technical, options, and dark-pool fields unavailable.
+
+## #3 — TSLA — Tesla
+TRADE PLAN
+- Trade Status: BUY only if the Cybercab catalyst produces a sustained breakout.
+- Recommended Entry: Approximately $360.80 reference.
+- Entry Range: $358.50-$362.50.
+- Stop Loss: $351.50.
+- Maximum Acceptable Drop: Approximately 2.5% from the midpoint reference.
+- Profit Target: $372.00.
+- Expected Return: Approximately 3.0%.
+- Risk/Reward: Approximately 1.2:1.
+- Planned Entry: 09:50-10:15 ET after confirmation.
+- Planned Exit: 2026-09-03 15:45 ET.
+- Confidence: 55%.
+
+TECHNICAL ANALYSIS
+A market reference placed tokenized TSLA near $360.81 and described price as above the 7-, 20-, and 50-day SMAs with longer-term resistance near $382.98. These are reference data, not independently verified live U.S. equity quotes. Exact VWAP, RSI, MACD, ATR, volume, relative volume, liquidity, and bid/ask data were unavailable. citeturn644139search6
+
+CATALYST ANALYSIS
+Tesla's Cybercab event is the dominant catalyst, with attention on autonomous-vehicle economics and deployment potential. The event can create sharp two-way volatility and headline reversals. citeturn644139search2turn644139search6
+
+OPTIONS ANALYSIS
+Reliable options data unavailable.
+
+DARK-POOL / INSTITUTIONAL ANALYSIS
+Reliable dark-pool/off-exchange data unavailable.
+
+MARKET & SECTOR ANALYSIS
+The market opened higher and risk sentiment improved after dovish Fed commentary, but oil/geopolitical risk remains a cross-current. TSLA is more event-driven and headline-sensitive than HPE.
+
+TRADE THESIS
+TSLA ranks third because the event catalyst is powerful, but reward/risk is weaker and the outcome is more binary. The trade requires a clean breakout; otherwise NO TRADE is preferred.
+
+INVALIDATION CONDITIONS
+- Failure to break and hold above the opening range.
+- Rejection near resistance.
+- Negative Cybercab headlines.
+- QQQ reversal or excessive spread.
+
+EXIT STRATEGY
+Target $372.00, stop $351.50, or close by 15:45 ET. Never hold overnight.
+
+KEY RISKS
+Event volatility, resistance, valuation, headline reversal, and reference-price limitations.
+
+DATA QUALITY
+Timestamp: 2026-09-03 09:47 ET. Current event/news references plus delayed/reference pricing used. Exact live U.S. quote, technical indicators, options, and dark-pool data unavailable.
 
 ## FINAL ASSESSMENT
-1. Best overall trade: XOM, conditional on opening-range confirmation.
-2. Second-best trade: CVX, conditional on holding above the opening range and VWAP.
-3. Third-best trade: HOOD, only if the analyst-upgrade gap holds despite broad risk-off conditions.
-4. Market environment: Risk-off to mixed; energy favored, growth pressured.
-5. Avoid any trade that fails confirmation or requires chasing an extended move.
+1. Best overall trade: HPE, conditional on holding the opening range and VWAP.
+2. Second-best trade: SNOW, only on continuation after confirmation; avoid chasing the initial gap.
+3. Third-best trade: TSLA, only on a clean Cybercab-driven breakout.
+4. Market environment: Mixed to cautiously bullish; catalyst-driven trades are favored, but oil and geopolitical risk can reverse the tape.
+5. Avoid any trade that fails confirmation or requires chasing an extended gap.
 6. Number of qualifying trades: 3 conditional setups.
-7. Most important risk: a rapid macro headline reversal in oil, yields, or Middle East tensions during the first hour.
+7. Most important risk: rapid first-hour reversal caused by profit-taking, oil/geopolitical headlines, or disappointment in event/earnings follow-through.
 
 GITHUB STORAGE INSTRUCTIONS
 - Replace stockinfo.txt with this current-day plan.
-- Append MORNING PLAN — 2026-09-01 to trade_history.txt without deleting prior days or duplicating today's section.
+- Append MORNING PLAN — 2026-09-03 to trade_history.txt without deleting prior days or duplicating today's section.
 - Update strategy_performance.txt cumulatively without erasing history.
 - A recommendation is not an executed trade.
