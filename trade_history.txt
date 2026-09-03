@@ -192,3 +192,60 @@ Key risk: High-beta risk-off reversal
 END-OF-DAY RESULTS — 2026-09-01
 
 Pending. This section must be completed by the end-of-day automation. Do not infer execution from closing prices alone.
+
+MORNING PLAN — 2026-09-03
+
+Analysis timestamp: 2026-09-03 09:47 ET
+Market condition: Mixed to cautiously bullish at the open. Major indexes opened higher after dovish Fed commentary; oil remained elevated near $93 and geopolitical risk stayed high. VIX was just over 15.
+Data quality: Mixed. Fresh market/news reports available; exact live bid/ask, VWAP, RSI, MACD, ATR, opening range, options flow, relative volume, and dark-pool data were not independently verified.
+
+Rank: 1
+Ticker: HPE
+Company: Hewlett Packard Enterprise
+Trade status: BUY only if post-open strength holds above VWAP/opening range
+Entry range: $51.60-$52.10
+Planned entry: 09:50-10:10 ET after confirmation
+Stop: $50.70
+Target: $53.70
+Planned exit: 15:45 ET
+Expected return: 3.6%
+Confidence: 61%
+Catalyst: Raised outlook; AI/server demand; Oracle partnership
+Market condition: Mixed to cautiously bullish
+Sector condition: AI infrastructure relatively strong
+Dark-pool signal: Unavailable
+Key risk: Supply constraints; gap fade
+
+Rank: 2
+Ticker: SNOW
+Company: Snowflake
+Trade status: BUY only on continuation above opening range; avoid chasing failed gap
+Entry range: $303.50-$307.50
+Planned entry: 09:50-10:10 ET after confirmation
+Stop: $297.00
+Target: $319.00
+Planned exit: 15:45 ET
+Expected return: 4.3%
+Confidence: 58%
+Catalyst: Strong earnings; raised FY product-revenue outlook; AI demand
+Market condition: Mixed to cautiously bullish
+Sector condition: Software/AI supportive but extended
+Dark-pool signal: Unavailable
+Key risk: 20%+ gap reversal; premium valuation
+
+Rank: 3
+Ticker: TSLA
+Company: Tesla
+Trade status: BUY only if Cybercab catalyst produces sustained breakout
+Entry range: $358.50-$362.50 reference
+Planned entry: 09:50-10:15 ET after confirmation
+Stop: $351.50
+Target: $372.00
+Planned exit: 15:45 ET
+Expected return: 3.0%
+Confidence: 55%
+Catalyst: Cybercab event; autonomy narrative
+Market condition: Mixed to cautiously bullish
+Sector condition: Event-driven/high beta
+Dark-pool signal: Unavailable
+Key risk: Event volatility; resistance; valuation
