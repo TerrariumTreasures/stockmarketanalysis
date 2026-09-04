@@ -249,3 +249,60 @@ Market condition: Mixed to cautiously bullish
 Sector condition: Event-driven/high beta
 Dark-pool signal: Unavailable
 Key risk: Event volatility; resistance; valuation
+
+MORNING PLAN — 2026-09-04
+
+Analysis timestamp: 2026-09-04 09:21 ET
+Market condition: Mixed to cautious before the open; payrolls beat estimates and raised rate sensitivity; energy elevated and breadth weak.
+Data quality: Mixed. Current news and delayed/reference premarket prices available; exact live quote, indicators, options flow, relative volume, and dark-pool data unavailable.
+
+Rank: 1
+Ticker: IOT
+Company: Samsara
+Trade status: BUY only if opening range holds
+Entry range: $43.90-$44.50
+Planned entry: 09:30-09:45 ET after confirmation
+Stop: $42.90
+Target: $46.00
+Planned exit: 15:45 ET
+Expected return: 4.1%
+Confidence: 61%
+Catalyst: Earnings beat; raised outlook; ARR +30%
+Market condition: Mixed/cautious
+Sector condition: Growth software selective
+Dark-pool signal: Unavailable
+Key risk: Gap fade / growth selloff
+
+Rank: 2
+Ticker: UMC
+Company: United Microelectronics
+Trade status: BUY only if breakout holds above premarket reference
+Entry range: $20.10-$20.35
+Planned entry: 09:30-09:45 ET after confirmation
+Stop: $19.75
+Target: $21.00
+Planned exit: 15:45 ET
+Expected return: 3.5%
+Confidence: 60%
+Catalyst: August sales +30.71% YoY
+Market condition: Mixed/cautious
+Sector condition: Semiconductor selective
+Dark-pool signal: Unavailable
+Key risk: Semiconductor reversal / ADR FX risk
+
+Rank: 3
+Ticker: DOCU
+Company: DocuSign
+Trade status: BUY only if post-open strength confirms
+Entry range: $66.60-$67.40
+Planned entry: 09:35-10:00 ET after confirmation
+Stop: $65.30
+Target: $69.30
+Planned exit: 15:45 ET
+Expected return: 3.4%
+Confidence: 56%
+Catalyst: Better-than-expected Q2 results; guidance in line
+Market condition: Mixed/cautious
+Sector condition: Software rate-sensitive
+Dark-pool signal: Unavailable
+Key risk: Weak follow-through / rate sensitivity
