@@ -1,17 +1,17 @@
 STRATEGY PERFORMANCE
 
-Trading Days: 5
-Total Qualifying Trades: 15
+Trading Days: 6
+Total Qualifying Trades: 18
 Total Executed Trades: 0 confirmed
 Profitable Trades: 0 confirmed
 Losing Trades: 0 confirmed
 No-Entry Trades: 0 confirmed
 No-Trade Decisions: 0
-Unknown Outcomes: 15
+Unknown Outcomes: 18
 Win Rate: N/A — no confirmed executions
 Average Actual Return: N/A
-Average Expected Return: 3.17% across morning plans
-Average Confidence: 58.3% across morning plans
+Average Expected Return: 3.20% across morning plans
+Average Confidence: 58.7% across morning plans
 Average Performance Difference: N/A
 Average MFE: N/A
 Average MAE: N/A
@@ -25,11 +25,11 @@ Total Simple Percentage Return: N/A
 SIGNAL PERFORMANCE
 
 Relative Volume: Insufficient observations
-Catalyst: Insufficient observations; energy catalysts were directionally supported on 2026-08-31 and 2026-09-01; AI/server and software catalysts were fresh on 2026-09-03 but outcomes are unverified
+Catalyst: Insufficient observations; energy catalysts were directionally supported on 2026-08-31 and 2026-09-01; AI/server and software catalysts were fresh on 2026-09-03; IOT/UMC/DOCU catalysts were fresh on 2026-09-04 but outcomes are unverified
 VWAP: Insufficient observations; live confirmation data unavailable
-Momentum: Insufficient observations; energy strength persisted on 2026-08-31 and 2026-09-01; AI infrastructure and software were strong relative themes on 2026-09-03
-Market Condition: 5-day small sample; 2026-08-27 bullish/event-driven, 2026-08-28 modestly bearish/hawkish, 2026-08-31 risk-off to mixed, 2026-09-01 risk-off to mixed, 2026-09-03 mixed to cautiously bullish
-Sector Condition: 5-day small sample; energy outperformed on 2026-08-31 and 2026-09-01; AI infrastructure/software were relatively strong on 2026-09-03
+Momentum: Insufficient observations; energy strength persisted on 2026-08-31 and 2026-09-01; AI infrastructure/software were strong relative themes on 2026-09-03; IOT/UMC strength was reported premarket on 2026-09-04
+Market Condition: 6-day small sample; 2026-08-27 bullish/event-driven, 2026-08-28 modestly bearish/hawkish, 2026-08-31 risk-off to mixed, 2026-09-01 risk-off to mixed, 2026-09-03 mixed to cautiously bullish, 2026-09-04 mixed/cautious after stronger-than-expected payrolls
+Sector Condition: 6-day small sample; energy outperformed on 2026-08-31 and 2026-09-01; AI infrastructure/software were relatively strong on 2026-09-03; selective growth software and semiconductor catalysts were active on 2026-09-04
 Options Activity: Insufficient observations
 Dark-Pool Signal: Insufficient observations; reliable data unavailable
 Technical Setup: Insufficient observations; live technical confirmation unavailable
@@ -40,6 +40,7 @@ Notes:
 - 2026-08-31: three conditional energy setups (SLB, CVX, HAL); zero confirmed executions.
 - 2026-09-01: three conditional setups (XOM, CVX, HOOD); zero confirmed executions confirmed at analysis time.
 - 2026-09-03: three conditional setups (HPE, SNOW, TSLA); zero confirmed executions at analysis time.
+- 2026-09-04: three conditional setups (IOT, UMC, DOCU); zero confirmed executions at analysis time.
 - Unknown outcomes are not counted as wins or losses.
 - Total simple percentage return is not equivalent to portfolio return unless equal capital allocation is assumed.
 - Small-sample statistics are not statistically significant.
